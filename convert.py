@@ -1,7 +1,7 @@
 __author__ = 'chuqiao'
 
 
-txt_file = r"fullintact.txt"
+txt_file = r"full-intact.txt"
 csv_file = r"full.csv"
 
 
