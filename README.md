@@ -27,7 +27,7 @@ Unzip the folder
 
 Run the script with provided mycsv file a figture will pop up to your screen.
 
-![alt text](https://github.com/Chuqiaoo/intact-contributor/blob/master/result.pnga)
+![alt text](https://github.com/Chuqiaoo/intact-contributor/blob/master/result.png)
 
 
 # Contributors
