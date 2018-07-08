@@ -27,7 +27,7 @@ Unzip the folder
 
 Run the script with provided mycsv file a figture will pop up to your screen.
 
-![alt text](https://github.com/Chuqiaoo/reactome_qa/blob/master/reactome-qa.png)
+![alt text](https://github.com/Chuqiaoo/intact-contributor/blob/master/result.pnga)
 
 
 # Contributors
