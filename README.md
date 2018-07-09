@@ -1,7 +1,7 @@
 # intact-contributor
 
 # Aim
- A gigurevto show the major contributors of new data in the IntAct database over time.
+ A figure to show the major contributors of new data in the IntAct database over time.
 # Background
 IntAct (http://www.ebi.ac.uk/intact) is a database of protein interactions. In computational terms one interaction is an edge between two nodes in a graph. Each node is a protein, each edge is a report of this protein interaction. The data in IntAct comes from the scientific literature. One paper might contribute a single interaction, or tens of thousands to the database.
 
